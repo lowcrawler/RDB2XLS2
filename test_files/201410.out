@@ -1,0 +1,143 @@
+#  RDB file created by NWIS qwflatout program on nwismn at 04/11/2017 11:10:28
+#
+# AGNCY  Agency code
+# STAID  Station number
+# SNAME  Station name
+# DATES  Date
+# TIMES  Sample start time
+# MEDIM  Medium code
+# STYPE  Sample type code
+# SAMPL  Record number
+# PRJCT  Project code
+# LABNO  Laboratory number
+# SCMLB  Lab sample comment
+# SCMFL  Field sample comment
+# P00028 Agency analyzing sample, code
+# P72000 Altitude of land surface, feet
+# P72008 Depth of well, feet below land surface datum
+# P81024 Drainage area, square miles
+# P84145 Project component, code
+# P71999 Sample purpose, code
+# P72005 Sample source, code
+# P00115 Sample treatment, code
+# P84164 Sampler type, code
+# P82398 Sampling method, code
+# P50280 Site visit purpose, code
+# P84144 Well selection criteria, code
+# P84143 Well purging condition, code
+# P74200 Sample preservation method, code
+# P81352 Filter pore size, micrometers
+# P50276 Filter type, code
+# P84060 Topography, physiographic setting, code
+# P99111 Type of quality assurance data associated with sample, code
+# P99112 Topical quality-control data purpose, code
+# P99105 Type of replicate, code
+# P99101 Source of blank solution, code
+# P99102 Type of blank sample, code
+# P99100 Type of blank solution, code
+# P99104 Reference material or spike lot number
+# P72019 Depth to water level, feet below land surface
+# P72004 Pump or flow period prior to sampling, minutes
+# P00059 Flow rate, instantaneous, gallons per minute
+# P00003 Sampling depth, feet
+# P72016 Depth to bottom of sample interval, feet below land surface datum
+# P72015 Depth to top of sample interval, feet below land surface datum
+# P72006 Sampling condition, code
+# P00061 Discharge, instantaneous, cubic feet per second
+# P00065 Gage height, feet
+# P00063 Number of sampling points, count
+# P00025 Barometric pressure, millimeters of mercury
+# P00020 Temperature, air, degrees Celsius
+# P00300 Dissolved oxygen, water, unfiltered, milligrams per liter
+# P00301 Dissolved oxygen, water, unfiltered, percent of saturation
+# P00400 pH, water, unfiltered, field, standard units
+# P00403 pH, water, unfiltered, laboratory, standard units
+# P90095 Specific conductance, water, unfiltered, laboratory, microsiemens per centimeter at 25 degrees Celsius
+# P00095 Specific conductance, water, unfiltered, microsiemens per centimeter at 25 degrees Celsius
+# P90410 Acid neutralizing capacity, water, unfiltered, fixed endpoint (pH 4.5) titration, laboratory, milligrams per liter as calcium carbonate
+# P39086 Alkalinity, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter as calcium carbonate
+# P00010 Temperature, water, degrees Celsius
+# P61028 Turbidity, water, unfiltered, field, nephelometric turbidity units
+# P80154 Suspended sediment concentration, milligrams per liter
+# P00915 Calcium, water, filtered, milligrams per liter
+# P00925 Magnesium, water, filtered, milligrams per liter
+# P00935 Potassium, water, filtered, milligrams per liter
+# P00930 Sodium, water, filtered, milligrams per liter
+# P01046 Iron, water, filtered, micrograms per liter
+# P01056 Manganese, water, filtered, micrograms per liter
+# P00453 Bicarbonate, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter
+# P00452 Carbonate, water, filtered, inflection-point titration method (incremental titration method), field, milligrams per liter
+# P00940 Chloride, water, filtered, milligrams per liter
+# P00955 Silica, water, filtered, milligrams per liter as SiO2
+# P00945 Sulfate, water, filtered, milligrams per liter
+# P00623 Ammonia plus organic nitrogen, water, filtered, milligrams per liter as nitrogen
+# P00625 Ammonia plus organic nitrogen, water, unfiltered, milligrams per liter as nitrogen
+# P00608 Ammonia, water, filtered, milligrams per liter as nitrogen
+# P00631 Nitrate plus nitrite, water, filtered, milligrams per liter as nitrogen
+# P00613 Nitrite, water, filtered, milligrams per liter as nitrogen
+# P00671 Orthophosphate, water, filtered, milligrams per liter as phosphorus
+# P00666 Phosphorus, water, filtered, milligrams per liter as phosphorus
+# P00665 Phosphorus, water, unfiltered, milligrams per liter as phosphorus
+# P62854 Total nitrogen [nitrate + nitrite + ammonia + organic-N], water, filtered, analytically determined, milligrams per liter
+# P62850 2-[(2-Ethyl-6-methylphenyl)amino]-2-oxoethanesulfonic acid, water, filtered, recoverable, micrograms per liter
+# P04040 2-Chloro-4-isopropylamino-6-amino-s-triazine, water, filtered, recoverable, micrograms per liter
+# P04038 2-Chloro-6-ethylamino-4-amino-s-triazine, water, filtered, recoverable, micrograms per liter
+# P61030 Acetochlor oxanilic acid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+# P62847 Acetochlor sulfinylacetic acid, water, filtered, recoverable, micrograms per liter
+# P61029 Acetochlor sulfonic acid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+# P49260 Acetochlor, water, filtered, recoverable, micrograms per liter
+# P61031 Alachlor oxanilic acid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+# P62848 Alachlor sulfinylacetic acid, water, filtered, recoverable, micrograms per liter
+# P50009 Alachlor sulfonic acid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+# P46342 Alachlor, water, filtered, recoverable, micrograms per liter
+# P38401 Ametryn, water, filtered, recoverable, micrograms per liter
+# P39632 Atrazine, water, filtered, recoverable, micrograms per liter
+# P61709 Cyanazine amide, water, filtered, recoverable, micrograms per liter
+# P04041 Cyanazine, water, filtered, recoverable, micrograms per liter
+# P62482 Dimethenamid oxanilic acid, water, filtered, recoverable, micrograms per liter
+# P61951 Dimethenamid sulfonic acid, water, filtered, recoverable, micrograms per liter
+# P61588 Dimethenamid, water, filtered, recoverable, micrograms per liter
+# P62483 Flufenacet oxanilic acid, water, filtered, recoverable, micrograms per liter
+# P61952 Flufenacet sulfonic acid, water, filtered, recoverable, micrograms per liter
+# P62481 Flufenacet, water, filtered, recoverable, micrograms per liter
+# P61044 Metolachlor oxanilic acid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+# P61043 Metolachlor sulfonic acid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+# P39415 Metolachlor, water, filtered, recoverable, micrograms per liter
+# P82630 Metribuzin, water, filtered, recoverable, micrograms per liter
+# P82683 Pendimethalin, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+# P04037 Prometon, water, filtered, recoverable, micrograms per liter
+# P04036 Prometryn, water, filtered, recoverable, micrograms per liter
+# P62767 Propachlor oxanilic acid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+# P62766 Propachlor sulfonic acid, water, filtered (0.7 micron glass fiber filter), recoverable, micrograms per liter
+# P04024 Propachlor, water, filtered, recoverable, micrograms per liter
+# P38535 Propazine, water, filtered, recoverable, micrograms per liter
+# P62849 sec-Alachlor sulfonic acid, water, filtered, recoverable, micrograms per liter
+# P04035 Simazine, water, filtered, recoverable, micrograms per liter
+# P38888 Terbutryn, water, filtered, recoverable, micrograms per liter
+# P82085 delta oxygen-18/oxygen-16, water, unfiltered, per mil
+# P82082 delta hydrogen-2/hydrogen-1, water, unfiltered, per mil
+#
+AGNCY	STAID	SNAME	DATES	TIMES	MEDIM	STYPE	SAMPL	PRJCT	LABNO	SCMLB	SCMFL	P00028	P72000	P72008	P81024	P84145	P71999	P72005	P00115	P84164	P82398	P50280	P84144	P84143	P74200	P81352	P50276	P84060	P99111	P99112	P99105	P99101	P99102	P99100	P99104	P72019	P72004	P00059	P00003	P72016	P72015	P72006	P00061	P00065	P00063	P00025	P00020	P00300	P00301	P00400	P00403	P90095	P00095	P90410	P39086	P00010	P61028	P80154	P00915	P00925	P00935	P00930	P01046	P01056	P00453	P00452	P00940	P00955	P00945	P00623	P00625	P00608	P00631	P00613	P00671	P00666	P00665	P62854	P62850	P04040	P04038	P61030	P62847	P61029	P49260	P61031	P62848	P50009	P46342	P38401	P39632	P61709	P04041	P62482	P61951	P61588	P62483	P61952	P62481	P61044	P61043	P39415	P82630	P82683	P04037	P04036	P62767	P62766	P04024	P38535	P62849	P04035	P38888	P82085	P82082
+10S	20S	50S	10D	10S	10S	10S	10S	10S	10S	50S	50S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S	9S
+USGS	05078520	Cyr Creek Near Marcoux Corners, MN (SW5)	20141015	0745	WS	9	01500002	MN-18000	2900031	A-2900031 FYI- WCA sample was acidified.			1051		11.4	600	40.00	67.00	1	3071	70	1001			177	0.45	10	30.0	1										0.04				<0.01	1.16	1	735	6.1	6.6	57	7.7		678	668		314	7.4		9							379	2.2				0.64	0.68	<0.01	<0.040	<0.001	0.006	0.012	0.031																																						
+USGS	05078470	Judicial Ditch 64 Near Mentor, MN (SW4)	20141014	1415	WS	9	01500003	MN-18000	2900035	A-2900035 FYI- WCA sample was acidified.			1119		9.60	600	40.00	67.00	1	3071	70	1001			177	0.45	10	30.0	1										0.05				0.03	1.17	1	734	17.2	10.1	93	7.9		554	703		308	9.7		35							372	1.7				0.62	0.74	0.01	0.778	0.009	<0.004	0.005	0.014																																						
+USGS	05078720	County Ditch 140 Abv Br-6 Imp Nr Tilden, MN (SW8)	20141014	1200	WS	9	01500004	MN-18000	2900034	A-2900034 FYI- WCA sample was acidified.			1064		9.00	600	40.00	67.00	1	4080	70	1001			177	0.45	10	30.0	1										0.05				0.04	1.77	1	733	14.4	5.4	47	7.4		486	632		380	7.6		21							462	0.6				0.62	0.69	<0.01	<0.040	<0.001	0.006	0.006	0.017																																						
+USGS	05079250	County Ditch 65 Near Maple Bay, MN (SW2)	20141014	1000	WS	9	01500005	MN-18000	2900033	A-2900033 FYI- WCA sample was acidified.			1135		10.4	600	40.00	67.00	1	4080	70	1001			177	0.45	10	30.0	1										0.10				0.03	0.24	1	733	8.9	7.2	63	7.7		612	623		305	7.5		20							370	0.9				0.58	0.76	<0.01	<0.040	<0.001	0.009	0.015	0.043																																						
+USGS	05079200	County Ditch 72 (Burnham Ck) Nr. Maple Bay  (SW3)	20141014	0800	WS	9	01500006	MN-18000	2900032	A-2900032 FYI- WCA sample was acidified.			1126		10.7	600	40.00	67.00	1	4080	70	1001			177	0.45	10	30.0	1														0.05	1.24	1	733	0.6	7.0	55	7.5		651	775		359	3.6		47							434	1.6				0.85	0.94	0.18	<0.040	0.007	0.008	0.011	0.024																																						
+USGS	05078770	Judicial Ditch 66 Near Marcoux Corners, MN (SW6)	20141013	1500	WS	9	01500007	MN-18000	2900036	A-2900036 FYI- WCA sample was acidified.			1038		14.2	600	40.00	67.00	1	4080	70	1001			177	0.45	10	30.0	10	10									0.40				0.52	1.11	1	733	16.7	14.2	141	8.6		527	563		209	13.4		7							239	7.8				0.50	0.61	0.01	0.227	0.003	<0.004	0.007	0.016																																						
+USGS	473945096202401	E01D-R    148N45W01CBDD  01	20141016	1630	WG	9	01500008	MN-18000	2940107				1075	171.00		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	160	1							-7.13	454	0.12	<0.00	171.00	168.00					721	16.1	0.2	2	7.8			765		370	11.2									448	1.3						3.46	<0.040	<0.001	0.293	0.311		3.94																																					
+USGS	473945096202402	E01S-R    148N45W01CBDD  01	20141016	1330	WG	9	01500009	MN-18000	2940106				1075	19.77		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	160	1							5.65	68	0.08	14.0	17.31	13.01					721	16.1	6.7	66	7.3			474		223	12.4									272	0.3						0.02	0.508	<0.001	0.006	0.003		0.74																																					
+USGS	473841096153101	G15-R     148N44W10CCCC  01             0000620675	20141016	1100	WG	9	01500010	MN-18000	2940105				1154	14.87		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	40.0	1							4.02	39	0.14	7.83	11.47	7.17					718	16.5	0.2	2	7.3			475		178	11.5									216	0.2						<0.01	3.25	0.066	0.010	0.008		3.46																																					
+USGS	474708096261801	L043      150N45W29ADAA  01 Gentilly	20141016	0900	WG	9	01500011	MN-18000	2940104				950	24.26		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	60.0	1							16.89	25	0.15	18.9	23.00	18.00					723	15.1	6.6	62	7.2			554		269	9.7									327	0.5						<0.01	0.445	<0.001	0.005	0.003		0.67																																					
+USGS	474129096145201	E02D      149N44W26DACD  01	20141015	1630	WG	9	01500012	MN-18000	2900046				1163	173.58		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	160	1							11.94	123	7.1	18.2	0.00	0.00					727	21.6	0.1	0.0	7.6			594		291	9.5									354	0.5						0.87	<0.040	<0.001	0.032	0.025		1.02																																					
+USGS	474129096145202	G09       149N44W26DDCA  01             0000620669	20141015	1540	WG	9	01500013	MN-18000	2900045				1162	10.60		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	160	1							4.71	23	0.18	10.3	9.97	5.67					727	21.6	0.1	0.0	7.0			518		249	10.8									303	0.2						0.01	2.43	0.012	<0.004	0.003		2.73																																					
+USGS	474436096140801	E03-R     149N44W12BADA  01	20141015	1230	WG	9	01500014	MN-18000	2900042				1122	69.00		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	60.0	1							8.13	30	18.5	11.1	69.00	59.00					730	19.2	1.3	12	7.1			657		240	9.7									292	0.2						<0.01	15.2	0.085	0.007	0.005		14.7																																					
+USGS	474125096120602	G22S-R    149N43W29CCBB  01             0000620682	20141015	0930	WG	9	01500015	MN-18000	2900039				1186	29.77		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	80.0	10	10						22.55	53	0.09	24.1	29.23	24.93					729	13.0	7.7	70	7.0			887		270	9.2									329	0.2						<0.01	30.9	<0.001	0.008	0.005		33.7																																					
+USGS	474221096120901	G16       149N43W19DADD  01             0000620676	20141014	1500	WG	9	01500016	MN-18000	2900044				1166	14.41		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	160	1							4.85	28	0.19	20.9	10.89	6.59					731	19.7	5.4	52	7.4			404		167	12.0									203	0.1						<0.01	4.77	<0.001	0.005	<0.003		5.56																																					
+USGS	474135096203001	G01-R     149N44W30CAAD  01             0000620661	20141014	1300	WG	9	01500017	MN-18000	2900043				1069	10.42		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	40.0	1							3.65	22	0.18	6.74	9.88	5.58					733	18.0	0.1	1	6.6			848		436	12.7									531	0.2						0.13	<0.040	0.002	0.024	0.021		0.80																																					
+USGS	474128096175501	G13       149N44W28CADD  01             0000620673	20141014	1030	WG	9	01500018	MN-18000	2900040				1116	13.92		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	160	1							7.61	33	0.04	13.8	8.44	4.14					731	14.6	E1.9	E18	7.1			792		429	11.5									522	0.3						<0.01	0.070	<0.001	0.006	<0.003		0.26																																					
+USGS	474346096185501	G08-R     149N44W17ABAD  01             0000620668	20141014	0830	WG	9	01500019	MN-18000	2900038				1093	11.81		600	50.00	1.00	1	4080	4033	2003	200	160	177	0.45	10	60.0	1							6.99	23	0.17	8.93	11.27	6.97					732	13.0	0.6	5	7.1			837		365	11.6									444	0.4						<0.01	4.91	0.020	<0.004	0.006		5.40																																					
+USGS	474540096210001	150N44W31CCCC  01 Crookston   0000191552	20141017	0900	WG	9	01500852	MN-CRK03	3188701	"A-2940103 Woods Hole Lab (***A ""Lost"" Sample, P			1065	56.00			15.00	1.00		8010	8010	2001							1													0.10						0.2		6.8	8.0	629	598		225	8.1			79.2	29.8	4.30	7.35	287	103	274	0.2	11.1	11.4	84.4																																													-11.14	-82.50
+USGS	05078770	Judicial Ditch 66 Near Marcoux Corners, MN (SW6)	20141013	1501	OAQ	2	01500001	MN-18000	2900037	A-2900037 FYI- WCA sample was acidified.			1038		14.2	900	170.00	0.14	1	4080	4033	1098			177	0.45	10	30.0	1	10		10.00	100.00	10.00											1	733	16.7	9.1	100	8.3			3		1.0	18.4									1.4	<0.1				0.08	<0.07	<0.01	<0.040	<0.001	<0.004	<0.003	<0.004																																						
+USGS	474125096120602	G22S-R    149N43W29CCBB  01             0000620682	20141015	1035	OAQ	2	01500002	MN-18000	2900041				1186	29.77		900	170.00	0.14	1	4080	4033	2098	200		177	0.45	10	80.0	1	10		10.00	100.00	10.00		22.55										728	13.0			8.4			6		1.0										1.5	<0.1						<0.01	<0.040	<0.001	<0.004	<0.003		<0.05																																					
+USGS	05078770	Judicial Ditch 66 Near Marcoux Corners, MN (SW6)	20141013	1501	WSQ	5	01500003	860718000	139888		This is a 'blank' sample.		1038		14.2		40.00			8010	70								100	130	20.00														1		16.7					1	3			18.4		1																																																									
